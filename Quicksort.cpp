@@ -41,3 +41,5 @@ int main() {
   
   cout << "Sorted array in ascending order: \n";
   printArray(data, n);
+
+}
